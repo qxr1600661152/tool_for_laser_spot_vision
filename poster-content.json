@@ -1,0 +1,17 @@
+{
+  "project": "tool_for_laser_spot_vision",
+  "sections": [
+    {
+      "title": "Background",
+      "body": "Experiment overview."
+    },
+    {
+      "title": "Methods",
+      "body": "Measurement protocol and setup."
+    },
+    {
+      "title": "Results",
+      "body": "Key metrics and figures."
+    }
+  ]
+}
